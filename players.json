@@ -1,0 +1,261 @@
+[{
+  "_id": {
+    "$oid": "618392ce0ca6eaa4aab05c9a"
+  },
+  "name": "lynx titan",
+  "attack": {
+    "score": 40000000,
+    "level": 110
+  },
+  "defense": {
+    "score": 45000000,
+    "level": 180
+  },
+  "magic": {
+    "score": 42000000,
+    "level": 152
+  },
+  "cooking": {
+    "score": 43000000,
+    "level": 102
+  },
+  "crafting": {
+    "score": 44000000,
+    "level": 109
+  },
+  "level": 2200
+},{
+  "_id": {
+    "$oid": "618394020ca6eaa4aab05c9b"
+  },
+  "name": "hey jase",
+  "attack": {
+    "score": 40005000,
+    "level": 210
+  },
+  "defense": {
+    "score": 45006000,
+    "level": 280
+  },
+  "magic": {
+    "score": 42007000,
+    "level": 152
+  },
+  "cooking": {
+    "score": 43002000,
+    "level": 102
+  },
+  "crafting": {
+    "score": 44080000,
+    "level": 109
+  },
+  "level": 2200
+},{
+  "_id": {
+    "$oid": "6183941e0ca6eaa4aab05c9c"
+  },
+  "name": "shawn bay",
+  "attack": {
+    "score": 40050000,
+    "level": 310
+  },
+  "defense": {
+    "score": 45060000,
+    "level": 380
+  },
+  "magic": {
+    "score": 42070000,
+    "level": 152
+  },
+  "cooking": {
+    "score": 43020000,
+    "level": 102
+  },
+  "crafting": {
+    "score": 44008000,
+    "level": 109
+  },
+  "level": 2200
+},{
+  "_id": {
+    "$oid": "618394290ca6eaa4aab05c9d"
+  },
+  "name": "senze",
+  "attack": {
+    "score": 40500000,
+    "level": 410
+  },
+  "defense": {
+    "score": 45600000,
+    "level": 480
+  },
+  "magic": {
+    "score": 42700000,
+    "level": 152
+  },
+  "cooking": {
+    "score": 43000200,
+    "level": 102
+  },
+  "crafting": {
+    "score": 44000800,
+    "level": 109
+  },
+  "level": 2200
+},{
+  "_id": {
+    "$oid": "618394490ca6eaa4aab05c9e"
+  },
+  "name": "tomdabom",
+  "attack": {
+    "score": 45000000,
+    "level": 510
+  },
+  "defense": {
+    "score": 45000060,
+    "level": 580
+  },
+  "magic": {
+    "score": 42000070,
+    "level": 152
+  },
+  "cooking": {
+    "score": 43200000,
+    "level": 102
+  },
+  "crafting": {
+    "score": 44000080,
+    "level": 109
+  },
+  "level": 2200
+},{
+  "_id": {
+    "$oid": "61878d9ac52b748cb9d03e69"
+  },
+  "name": "si mami",
+  "attack": {
+    "score": 52000000,
+    "level": 1510
+  },
+  "defense": {
+    "score": 29000060,
+    "level": 580
+  },
+  "magic": {
+    "score": 23000070,
+    "level": 152
+  },
+  "cooking": {
+    "score": 27200000,
+    "level": 102
+  },
+  "crafting": {
+    "score": 15000080,
+    "level": 109
+  },
+  "level": 2200
+},{
+  "_id": {
+    "$oid": "61878da7c52b748cb9d03e6a"
+  },
+  "name": "yorick",
+  "attack": {
+    "score": 53000000,
+    "level": 1520
+  },
+  "defense": {
+    "score": 26000060,
+    "level": 579
+  },
+  "magic": {
+    "score": 24000070,
+    "level": 153
+  },
+  "cooking": {
+    "score": 26200000,
+    "level": 102
+  },
+  "crafting": {
+    "score": 16000080,
+    "level": 109
+  },
+  "level": 2200
+},{
+  "_id": {
+    "$oid": "61878db0c52b748cb9d03e6b"
+  },
+  "name": "oblv bickus",
+  "attack": {
+    "score": 54000000,
+    "level": 1530
+  },
+  "defense": {
+    "score": 24000060,
+    "level": 579
+  },
+  "magic": {
+    "score": 25000070,
+    "level": 154
+  },
+  "cooking": {
+    "score": 25200000,
+    "level": 102
+  },
+  "crafting": {
+    "score": 17000080,
+    "level": 110
+  },
+  "level": 2200
+},{
+  "_id": {
+    "$oid": "61878de1c52b748cb9d03e6c"
+  },
+  "name": "rathys",
+  "attack": {
+    "score": 55000000,
+    "level": 1540
+  },
+  "defense": {
+    "score": 28000060,
+    "level": 580
+  },
+  "magic": {
+    "score": 26000070,
+    "level": 155
+  },
+  "cooking": {
+    "score": 24200000,
+    "level": 102
+  },
+  "crafting": {
+    "score": 18000080,
+    "level": 110
+  },
+  "level": 2200
+},{
+  "_id": {
+    "$oid": "61878de7c52b748cb9d03e6d"
+  },
+  "name": "mango",
+  "attack": {
+    "score": 56000000,
+    "level": 1550
+  },
+  "defense": {
+    "score": 22000060,
+    "level": 550
+  },
+  "magic": {
+    "score": 27000070,
+    "level": 156
+  },
+  "cooking": {
+    "score": 23200000,
+    "level": 102
+  },
+  "crafting": {
+    "score": 19000080,
+    "level": 111
+  },
+  "level": 2200
+}]
