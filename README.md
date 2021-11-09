@@ -8,7 +8,7 @@ use playerstat_db
 db.players.insertOne({ name: 'Lynx Titan', attack: {score: 40000000, level: 110}, defense: {score: 45000000, level: 180}, magic: {score: 42000700, level: 152}, cooking: {score: 43000020, level: 102}, crafting: {score: 48000000, level: 109}, level: 2200});
 
 
->> Insert the other players from json file.
+>> Insert other players like this from json file.
 
 Swagger UI
 ----------
